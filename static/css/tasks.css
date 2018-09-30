@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+}
+
+#tasks {
+
+}
+
+.task {
+   list-style-type: none;
+   border: 2px solid grey;
+   padding: 5px;
+   margin-top: 3px;
+}
+
+.task .id {
+    display: none;
+}
+
+.task .title {
+    display: block;
+}
+
+.task .description {
+    display: block;
+}
